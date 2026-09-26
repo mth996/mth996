@@ -32,7 +32,11 @@ My work spans gameplay systems, physics-based interactions, UI, multiplayer expe
 Developing immersive **science laboratory simulations for Meta Quest 3**, including realistic experiment interactions, guided workflows, multilingual interfaces, experiment validation, and standalone VR optimization.
 
 ### 🦸 Quest for Everyday Heroes
-**Quest for Everyday Heroes** is the immersive educational game developed as part of my MSc research exploring the application of **immersive technologies in educational games for children with Autism Spectrum Disorder (ASD)**, with a focus on supporting and improving **daily-life skills**.
+**Quest for Everyday Heroes** is the immersive educational game developed for my MSc research:
+
+**“Exploring the Application of Immersive Technologies in Educational Games to Improve the Daily Life Skills for Children with Autism Spectrum Disorder.”**
+
+The project explores how immersive educational gameplay can support children with Autism Spectrum Disorder (ASD) in practicing skills connected to everyday life.
 
 A dedicated public case-study repository with architecture, documentation, selected code samples, and project media is being prepared.
 
@@ -52,10 +56,12 @@ A dedicated public case-study repository with architecture, documentation, selec
 
 ## 📚 Research & Publications
 
-My current MSc research explores the **application of immersive technologies in educational games for children with Autism Spectrum Disorder, with a focus on improving daily-life skills**.
+### MSc Research
+**Exploring the Application of Immersive Technologies in Educational Games to Improve the Daily Life Skills for Children with Autism Spectrum Disorder**
 
-Published work:
+**Research Game:** *Quest for Everyday Heroes*
 
+### Published Work
 - **First Author:** *Bridging Realities: An Educational Game for Improving Social Skills in ASD Children with Immersive Technologies* — ISDIA 2024, Springer Nature Singapore
 - **Co-Author:** *vProCycle2: Enhancing VR Cycling with Motion, Mixed Reality, and Smart Connectivity* — ICITS 2026, Springer Nature Singapore
 - **Co-Author:** *Enhancing Therapeutic Engagement for Autism Spectrum Disorder Through Virtual Reality Gaming* — ICMET 2024, Springer Nature Singapore

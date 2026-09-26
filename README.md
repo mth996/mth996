@@ -10,7 +10,7 @@ My work spans gameplay systems, physics-based interactions, UI, multiplayer expe
 🎮 Unity / C# / Gameplay Programming  
 🥽 XR Interaction Toolkit / Meta Quest / PC / Web  
 🌐 Multiplayer: Photon PUN & Colyseus  
-🔬 MSc Research: VR × Autism Spectrum Disorder
+🔬 MSc Research: Immersive Technologies × Autism Spectrum Disorder
 
 ---
 
@@ -31,8 +31,8 @@ My work spans gameplay systems, physics-based interactions, UI, multiplayer expe
 ### 🧪 VR Science Laboratory
 Developing immersive **science laboratory simulations for Meta Quest 3**, including realistic experiment interactions, guided workflows, multilingual interfaces, experiment validation, and standalone VR optimization.
 
-### 🧩 Bridging Realities
-My MSc research project explores how an **immersive educational VR role-playing game** can support the development of social skills in children with Autism Spectrum Disorder (ASD).
+### 🦸 Quest for Everyday Heroes
+**Quest for Everyday Heroes** is the immersive educational game developed as part of my MSc research exploring the application of **immersive technologies in educational games for children with Autism Spectrum Disorder (ASD)**, with a focus on supporting and improving **daily-life skills**.
 
 A dedicated public case-study repository with architecture, documentation, selected code samples, and project media is being prepared.
 
@@ -52,6 +52,10 @@ A dedicated public case-study repository with architecture, documentation, selec
 
 ## 📚 Research & Publications
 
+My current MSc research explores the **application of immersive technologies in educational games for children with Autism Spectrum Disorder, with a focus on improving daily-life skills**.
+
+Published work:
+
 - **First Author:** *Bridging Realities: An Educational Game for Improving Social Skills in ASD Children with Immersive Technologies* — ISDIA 2024, Springer Nature Singapore
 - **Co-Author:** *vProCycle2: Enhancing VR Cycling with Motion, Mixed Reality, and Smart Connectivity* — ICITS 2026, Springer Nature Singapore
 - **Co-Author:** *Enhancing Therapeutic Engagement for Autism Spectrum Disorder Through Virtual Reality Gaming* — ICMET 2024, Springer Nature Singapore
@@ -62,7 +66,7 @@ A dedicated public case-study repository with architecture, documentation, selec
 
 I'm currently organizing this GitHub around a few focused areas:
 
-1. **Bridging Realities VR** — research-driven immersive VR case study
+1. **Quest for Everyday Heroes** — research-driven immersive educational VR case study
 2. **VR Science Lab** — selected technical systems and portfolio-safe demonstrations
 3. **Gameplay Projects** — polished examples of Unity gameplay development
 4. **Unity Architecture & Systems** — reusable C# patterns and technical demonstrations

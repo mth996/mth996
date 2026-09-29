@@ -65,14 +65,17 @@ My MSc research explores immersive educational games for supporting daily-life s
 
 ---
 
-## GitHub activity
+## Contribution journey
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mth996&show_icons=true&hide_border=true&rank_icon=github" alt="Mohammad's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mth996&layout=compact&hide_border=true" alt="Most used languages" />
+<p><em>Code, experiments, prototypes, and immersive systems — continuously evolving.</em></p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mth996&hide_border=true&area=true" width="96%" alt="GitHub contribution activity graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mth996/mth996/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mth996/mth996/output/github-contribution-grid-snake.svg">
+  <img alt="Animated GitHub contribution journey" src="https://raw.githubusercontent.com/mth996/mth996/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
 
 </div>
 

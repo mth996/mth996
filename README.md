@@ -71,7 +71,7 @@ My MSc research explores immersive educational games for supporting daily-life s
 
 <p><em>From gameplay development to research-driven XR and immersive simulation.</em></p>
 
-<img src="https://raw.githubusercontent.com/mth996/mth996/main/assets/project-journey-grid-v2.svg" alt="Animated project journey from Velocity Rush to SciLab VR" width="100%">
+<img src="https://raw.githubusercontent.com/mth996/mth996/main/assets/project-journey-grid-v3.svg" alt="Animated project journey from Velocity Rush to SciLab VR" width="100%">
 
 </div>
 

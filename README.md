@@ -10,7 +10,7 @@
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![XR](https://img.shields.io/badge/XR%20%2F%20VR-1C1E20?style=for-the-badge&logo=meta&logoColor=white)
 ![Meta Quest](https://img.shields.io/badge/Meta%20Quest-0467DF?style=for-the-badge&logo=meta&logoColor=white)
-![AI/ML](https://img.shields.io/badge/AI%20%2F%20ML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![AI Integration](https://img.shields.io/badge/AI%20Integration-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 </div>
 
@@ -20,7 +20,7 @@
 
 I am a **Unity / XR developer and immersive-technology researcher** with 4+ years of experience across VR simulation, gameplay systems, educational technology, research prototypes, and commercial interactive applications.
 
-My work focuses on **Unity/C# engineering, standalone VR for Meta Quest, interaction systems, simulation workflows, gameplay architecture, multiplayer, performance optimization, and AI/ML integration in immersive environments**.
+My work focuses on **Unity/C# engineering, standalone VR for Meta Quest, interaction systems, simulation workflows, gameplay architecture, multiplayer, performance optimization, AI integration, and adaptive systems in immersive environments**.
 
 > **Current direction:** XR engineering + intelligent immersive systems + applied research.
 
@@ -51,7 +51,7 @@ My work focuses on **Unity/C# engineering, standalone VR for Meta Quest, interac
 `Blender` · `3ds Max` · `Substance 3D Painter` · `Photoshop` · `Git` · `GitHub` · `Visual Studio`
 
 **Research direction**  
-`Immersive Learning` · `Serious Games` · `Human-Centred XR` · `AI/ML × XR`
+`Immersive Learning` · `Serious Games` · `Human-Centred XR` · `AI Integration` · `Adaptive Systems`
 
 ---
 
@@ -81,7 +81,7 @@ My MSc research explores immersive educational games for supporting daily-life s
 
 ### Building the next generation of immersive systems
 
-**Unity Development · XR/VR · Simulation · Gameplay Engineering · AI/ML × Immersive Technology**
+**Unity Development · XR/VR · Simulation · Gameplay Engineering · AI Integration · Adaptive Systems**
 
 Open to **Unity / XR engineering, VR simulation, immersive R&D, and PhD research opportunities in AI/ML + XR**.
 

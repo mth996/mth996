@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="390" viewBox="0 0 1000 390" role="img" aria-labelledby="title desc">
+<title id="title">Mohammad Tahmidul Hasan — Project Journey</title>
+<desc id="desc">Animated career journey through Velocity Rush, Tune Protect, Museum Conservation VR, Quest for Everyday Heroes, VR Offshore Simulator, and SciLab VR.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0d1117"/><stop offset="1" stop-color="#111827"/></linearGradient>
+  <linearGradient id="route" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#8b5cf6"/><stop offset=".5" stop-color="#22d3ee"/><stop offset="1" stop-color="#34d399"/></linearGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#30363d" stroke-width="1" opacity=".42"/></pattern>
+  <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <style>
+    .title{font:700 22px ui-monospace,SFMono-Regular,Consolas,monospace;fill:#f0f6fc;letter-spacing:1px}.sub{font:13px ui-monospace,SFMono-Regular,Consolas,monospace;fill:#8b949e}.label{font:600 12px ui-monospace,SFMono-Regular,Consolas,monospace;fill:#e6edf3}.num{font:700 11px ui-monospace,SFMono-Regular,Consolas,monospace;fill:#0d1117}.route{fill:none;stroke:url(#route);stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:8 9;filter:url(#glow)}.node{stroke:#0d1117;stroke-width:4;filter:url(#glow)}
+    .scene{opacity:0}.s1{animation:s1 24s linear infinite}.s2{animation:s2 24s linear infinite}.s3{animation:s3 24s linear infinite}
+    @keyframes s1{0%,31%{opacity:1}33%,100%{opacity:0}}@keyframes s2{0%,32%{opacity:0}34%,64%{opacity:1}66%,100%{opacity:0}}@keyframes s3{0%,65%{opacity:0}67%,98%{opacity:1}100%{opacity:0}}
+    .traveler{filter:url(#glow)}.t1{animation:t1 24s linear infinite}.t2{animation:t2 24s linear infinite}.t3{animation:t3 24s linear infinite}
+    @keyframes t1{0%,31%{opacity:1}33%,100%{opacity:0}}@keyframes t2{0%,32%{opacity:0}34%,64%{opacity:1}66%,100%{opacity:0}}@keyframes t3{0%,65%{opacity:0}67%,98%{opacity:1}100%{opacity:0}}
+  </style>
+</defs>
+<rect width="1000" height="390" rx="18" fill="url(#bg)"/><rect x="18" y="76" width="964" height="286" rx="14" fill="url(#grid)" stroke="#30363d"/>
+<text x="38" y="39" class="title">PROJECT JOURNEY // IMMERSIVE SYSTEMS</text><text x="38" y="62" class="sub">development chronology · positions evolve every cycle · oldest → latest</text><text x="962" y="48" text-anchor="end" class="sub">UNITY · XR · SIMULATION · AI</text>
+
+<g class="scene s1">
+ <path class="route" d="M865 305 L735 150 L600 278 L455 125 L285 250 L125 118"/>
+ <g transform="translate(865 305)"><circle r="14" fill="#a78bfa" class="node"/><text text-anchor="middle" y="4" class="num">1</text><text x="-8" y="-25" text-anchor="end" class="label">Velocity Rush</text></g>
+ <g transform="translate(735 150)"><circle r="14" fill="#60a5fa" class="node"/><text text-anchor="middle" y="4" class="num">2</text><text x="0" y="-25" text-anchor="middle" class="label">Tune Protect</text></g>
+ <g transform="translate(600 278)"><circle r="14" fill="#f59e0b" class="node"/><text text-anchor="middle" y="4" class="num">3</text><text x="0" y="31" text-anchor="middle" class="label">Museum VR</text></g>
+ <g transform="translate(455 125)"><circle r="14" fill="#f472b6" class="node"/><text text-anchor="middle" y="4" class="num">4</text><text x="0" y="-25" text-anchor="middle" class="label">Quest for Everyday Heroes</text></g>
+ <g transform="translate(285 250)"><circle r="14" fill="#fb7185" class="node"/><text text-anchor="middle" y="4" class="num">5</text><text x="0" y="31" text-anchor="middle" class="label">VR Offshore</text></g>
+ <g transform="translate(125 118)"><circle r="16" fill="#34d399" class="node"/><text text-anchor="middle" y="4" class="num">6</text><text x="0" y="-27" text-anchor="middle" class="label">SciLab VR · LATEST</text></g>
+ <circle r="7" fill="#fff" class="traveler t1"><animateMotion dur="8s" repeatCount="indefinite" path="M865 305 L735 150 L600 278 L455 125 L285 250 L125 118"/></circle>
+</g>
+
+<g class="scene s2">
+ <path class="route" d="M890 120 L760 285 L620 165 L470 305 L310 135 L110 265"/>
+ <g transform="translate(890 120)"><circle r="14" fill="#a78bfa" class="node"/><text text-anchor="middle" y="4" class="num">1</text><text x="-25" y="-20" text-anchor="end" class="label">Velocity Rush</text></g>
+ <g transform="translate(760 285)"><circle r="14" fill="#60a5fa" class="node"/><text text-anchor="middle" y="4" class="num">2</text><text x="0" y="31" text-anchor="middle" class="label">Tune Protect</text></g>
+ <g transform="translate(620 165)"><circle r="14" fill="#f59e0b" class="node"/><text text-anchor="middle" y="4" class="num">3</text><text x="0" y="-25" text-anchor="middle" class="label">Museum VR</text></g>
+ <g transform="translate(470 305)"><circle r="14" fill="#f472b6" class="node"/><text text-anchor="middle" y="4" class="num">4</text><text x="0" y="31" text-anchor="middle" class="label">Quest for Everyday Heroes</text></g>
+ <g transform="translate(310 135)"><circle r="14" fill="#fb7185" class="node"/><text text-anchor="middle" y="4" class="num">5</text><text x="0" y="-25" text-anchor="middle" class="label">VR Offshore</text></g>
+ <g transform="translate(110 265)"><circle r="16" fill="#34d399" class="node"/><text text-anchor="middle" y="4" class="num">6</text><text x="0" y="31" text-anchor="middle" class="label">SciLab VR · LATEST</text></g>
+ <circle r="7" fill="#fff" class="traveler t2"><animateMotion dur="8s" begin="0s" repeatCount="indefinite" path="M890 120 L760 285 L620 165 L470 305 L310 135 L110 265"/></circle>
+</g>
+
+<g class="scene s3">
+ <path class="route" d="M850 210 L720 105 L585 315 L430 175 L270 305 L135 155"/>
+ <g transform="translate(850 210)"><circle r="14" fill="#a78bfa" class="node"/><text text-anchor="middle" y="4" class="num">1</text><text x="25" y="-20" class="label">Velocity Rush</text></g>
+ <g transform="translate(720 105)"><circle r="14" fill="#60a5fa" class="node"/><text text-anchor="middle" y="4" class="num">2</text><text x="0" y="-25" text-anchor="middle" class="label">Tune Protect</text></g>
+ <g transform="translate(585 315)"><circle r="14" fill="#f59e0b" class="node"/><text text-anchor="middle" y="4" class="num">3</text><text x="0" y="31" text-anchor="middle" class="label">Museum VR</text></g>
+ <g transform="translate(430 175)"><circle r="14" fill="#f472b6" class="node"/><text text-anchor="middle" y="4" class="num">4</text><text x="0" y="-25" text-anchor="middle" class="label">Quest for Everyday Heroes</text></g>
+ <g transform="translate(270 305)"><circle r="14" fill="#fb7185" class="node"/><text text-anchor="middle" y="4" class="num">5</text><text x="0" y="31" text-anchor="middle" class="label">VR Offshore</text></g>
+ <g transform="translate(135 155)"><circle r="16" fill="#34d399" class="node"/><text text-anchor="middle" y="4" class="num">6</text><text x="0" y="-27" text-anchor="middle" class="label">SciLab VR · LATEST</text></g>
+ <circle r="7" fill="#fff" class="traveler t3"><animateMotion dur="8s" begin="0s" repeatCount="indefinite" path="M850 210 L720 105 L585 315 L430 175 L270 305 L135 155"/></circle>
+</g>
+
+<text x="38" y="380" class="sub">01 Velocity Rush  →  02 Tune Protect  →  03 Museum  →  04 Quest  →  05 Offshore  →  06 SciLab VR</text>
+</svg>

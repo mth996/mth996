@@ -65,17 +65,13 @@ My MSc research explores immersive educational games for supporting daily-life s
 
 ---
 
-## Contribution journey
+## Project journey
 
 <div align="center">
 
-<p><em>Code, experiments, prototypes, and immersive systems — continuously evolving.</em></p>
+<p><em>From gameplay development to research-driven XR and immersive simulation.</em></p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mth996/mth996/gh-pages/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mth996/mth996/gh-pages/github-contribution-grid-snake.svg">
-  <img alt="Animated GitHub contribution journey" src="https://raw.githubusercontent.com/mth996/mth996/gh-pages/github-contribution-grid-snake.svg" width="100%">
-</picture>
+<img src="https://raw.githubusercontent.com/mth996/mth996/main/assets/project-journey.svg" alt="Animated project journey from Velocity Rush to SciLab VR" width="100%">
 
 </div>
 

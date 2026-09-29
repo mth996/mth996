@@ -1,92 +1,89 @@
-# Hi, I'm Mohammad Tahmidul Hasan 👋
+<div align="center">
 
-### Unity Gameplay Programmer • XR/VR Developer • Immersive Technology Researcher
+# Mohammad Tahmidul Hasan
 
-I build **interactive games, immersive simulations, and XR experiences** using **Unity and C#**, with 4+ years of experience across commercial, educational, research, and industry projects.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=760&lines=Unity+%2F+XR+Developer;VR+Simulation+%26+Gameplay+Systems;AI+%C3%97+Immersive+Technology;Research-Driven+Interactive+Experiences)](https://git.io/typing-svg)
 
-My work spans gameplay systems, physics-based interactions, UI, multiplayer experiences, performance optimization, and standalone VR development for **Meta Quest**. I am particularly interested in the intersection of **game development, XR, AI/ML, and immersive learning**.
+**Building immersive systems where gameplay engineering, simulation, research, and AI meet.**
 
-📍 Kuala Lumpur, Malaysia  
-🎮 Unity / C# / Gameplay Programming  
-🥽 XR Interaction Toolkit / Meta Quest / PC / Web  
-🌐 Multiplayer: Photon PUN & Colyseus  
-🔬 MSc Research: Immersive Technologies × Autism Spectrum Disorder
+[![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![XR](https://img.shields.io/badge/XR%20%2F%20VR-1C1E20?style=for-the-badge&logo=meta&logoColor=white)
+![Meta Quest](https://img.shields.io/badge/Meta%20Quest-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![AI/ML](https://img.shields.io/badge/AI%20%2F%20ML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
----
-
-## 🛠️ Technical Focus
-
-- **Game Development:** Unity, C#, gameplay mechanics, physics-based interactions, state machines, UI systems
-- **XR / VR:** XR Interaction Toolkit, Meta Quest, standalone VR, immersive interaction design
-- **Multiplayer:** Photon PUN, Colyseus, real-time synchronization and collaborative experiences
-- **Performance:** Unity profiling, optimization for standalone VR and interactive applications
-- **Data & Integration:** REST APIs, JSON, SQL, MongoDB, foundational ASP.NET/.NET Core
-- **3D & Design:** Blender, Autodesk 3ds Max, Substance 3D Painter, Photoshop, Illustrator, Adobe XD
-- **Tools:** Git, GitHub, Visual Studio
+</div>
 
 ---
 
-## 🚀 What I'm Working On
+## Engineering immersive experiences
 
-### 🧪 VR Science Laboratory
-Developing immersive **science laboratory simulations for Meta Quest 3**, including realistic experiment interactions, guided workflows, multilingual interfaces, experiment validation, and standalone VR optimization.
+I am a **Unity / XR developer and immersive-technology researcher** with 4+ years of experience across VR simulation, gameplay systems, educational technology, research prototypes, and commercial interactive applications.
 
-### 🦸 Quest for Everyday Heroes
-**Quest for Everyday Heroes** is the immersive educational game developed for my MSc research:
+My work focuses on **Unity/C# engineering, standalone VR for Meta Quest, interaction systems, simulation workflows, gameplay architecture, multiplayer, performance optimization, and AI/ML integration in immersive environments**.
 
-**“Exploring the Application of Immersive Technologies in Educational Games to Improve the Daily Life Skills for Children with Autism Spectrum Disorder.”**
-
-The project explores how immersive educational gameplay can support children with Autism Spectrum Disorder (ASD) in practicing skills connected to everyday life.
-
-A dedicated public case-study repository with architecture, documentation, selected code samples, and project media is being prepared.
+> **Current direction:** XR engineering + intelligent immersive systems + applied research.
 
 ---
 
-## 🎯 Selected Experience
+## Flagship work
 
-- **XR / VR Developer — Spark Capital** — VR science laboratory simulations for Meta Quest 3
-- **Graduate Research Associate — Asia Pacific University** — Educational VR research and development
-- **Game Developer — Alter-Learning Educational Platform** — 2D/3D Unity games and Colyseus multiplayer
-- **XR / VR Developer — Solution Group × APU** — Standalone VR educational applications
-- **Game Developer — Muzium Negara × APU** — VR artifact inspection and conservation experience
-- **Game Developer — Advance Pact** — Interactive biomedical park visualization
-- **Game Developer — Tune Protect** — Unity-based interactive onboarding experience
-
----
-
-## 📚 Research & Publications
-
-### MSc Research
-**Exploring the Application of Immersive Technologies in Educational Games to Improve the Daily Life Skills for Children with Autism Spectrum Disorder**
-
-**Research Game:** *Quest for Everyday Heroes*
-
-### Published Work
-- **First Author:** *Bridging Realities: An Educational Game for Improving Social Skills in ASD Children with Immersive Technologies* — ISDIA 2024, Springer Nature Singapore
-- **Co-Author:** *vProCycle2: Enhancing VR Cycling with Motion, Mixed Reality, and Smart Connectivity* — ICITS 2026, Springer Nature Singapore
-- **Co-Author:** *Enhancing Therapeutic Engagement for Autism Spectrum Disorder Through Virtual Reality Gaming* — ICMET 2024, Springer Nature Singapore
+| Project | Focus | Engineering highlights |
+|---|---|---|
+| 🦸 **[Quest for Everyday Heroes](https://github.com/mth996/Quest-for-Everyday-Heros)** | Research-driven educational VR | Multi-level VR gameplay, AI/NPC interaction, daily-life skill simulation, research evaluation |
+| 🧪 **[SciLab VR](https://github.com/mth996/SciLabVR)** | Immersive science education | Meta Quest VR, experiment workflows, interaction validation, educational simulation |
+| 🏛️ **[Museum Conservation VR](https://github.com/mth996/Museum-Conservation)** | Cultural heritage / professional XR | Virtual conservation workflow, artifact interaction, immersive training experience |
+| 🛢️ **[VR Offshore Simulator](https://github.com/mth996/VR-Offshore-Simulator)** | Industrial VR training | Avatar IK, PPE, hazards, welding, valves, task-driven simulation systems |
+| 🧭 **[Tune Protect Onboarding](https://github.com/mth996/TuneProtectOnboarding)** | Commercial interactive experience | Unity interaction flow, onboarding systems, UI and guided experience design |
+| 🏎️ **[Velocity Rush](https://github.com/mth996/VelocityRush)** | Gameplay programming | Core gameplay systems, mechanics, Unity/C# game-development architecture |
 
 ---
 
-## 🧭 Featured Portfolio Direction
+## Core stack
 
-I'm currently organizing this GitHub around a few focused areas:
+**XR & Game Engineering**  
+`Unity` · `C#` · `XR Interaction Toolkit` · `Meta Quest` · `Gameplay Systems` · `Physics Interactions` · `State Machines` · `UI Systems`
 
-1. **Quest for Everyday Heroes** — research-driven immersive educational VR case study
-2. **VR Science Lab** — selected technical systems and portfolio-safe demonstrations
-3. **Gameplay Projects** — polished examples of Unity gameplay development
-4. **Unity Architecture & Systems** — reusable C# patterns and technical demonstrations
-5. **Multiplayer Development** — Photon PUN and Colyseus examples
-6. **XR Performance & Optimization** — Meta Quest-focused development practices
+**Networked & Data-Driven Systems**  
+`Photon PUN` · `Colyseus` · `REST APIs` · `JSON` · `SQL` · `MongoDB`
 
----
+**3D & Production**  
+`Blender` · `3ds Max` · `Substance 3D Painter` · `Photoshop` · `Git` · `GitHub` · `Visual Studio`
 
-## 🤝 Open to Opportunities
-
-I'm interested in **Unity Developer, Gameplay Programmer, XR/VR Developer, and immersive technology R&D roles**, as well as research and PhD opportunities involving **AI/ML + XR**.
-
-If you're working on games, XR, immersive simulation, educational technology, or applied AI in immersive environments, I'd be happy to connect.
+**Research direction**  
+`Immersive Learning` · `Serious Games` · `Human-Centred XR` · `AI/ML × XR`
 
 ---
 
-> More project case studies, gameplay media, architecture diagrams, and selected code samples are being added as I continue rebuilding this portfolio.
+## Research & publications
+
+My MSc research explores immersive educational games for supporting daily-life skills in children with Autism Spectrum Disorder through **Quest for Everyday Heroes**.
+
+- **First Author** — *Bridging Realities: An Educational Game for Improving Social Skills in ASD Children with Immersive Technologies* — Springer Nature
+- **Co-Author** — *vProCycle2: Enhancing VR Cycling with Motion, Mixed Reality, and Smart Connectivity* — Springer Nature
+- **Co-Author** — *Enhancing Therapeutic Engagement for Autism Spectrum Disorder Through Virtual Reality Gaming* — Springer Nature
+
+---
+
+## GitHub activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mth996&show_icons=true&hide_border=true&rank_icon=github" alt="Mohammad's GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mth996&layout=compact&hide_border=true" alt="Most used languages" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mth996&hide_border=true&area=true" width="96%" alt="GitHub contribution activity graph" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Building the next generation of immersive systems
+
+**Unity Development · XR/VR · Simulation · Gameplay Engineering · AI/ML × Immersive Technology**
+
+Open to **Unity / XR engineering, VR simulation, immersive R&D, and PhD research opportunities in AI/ML + XR**.
+
+</div>

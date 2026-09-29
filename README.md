@@ -72,9 +72,9 @@ My MSc research explores immersive educational games for supporting daily-life s
 <p><em>Code, experiments, prototypes, and immersive systems — continuously evolving.</em></p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mth996/mth996/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mth996/mth996/output/github-contribution-grid-snake.svg">
-  <img alt="Animated GitHub contribution journey" src="https://raw.githubusercontent.com/mth996/mth996/output/github-contribution-grid-snake.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mth996/mth996/gh-pages/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mth996/mth996/gh-pages/github-contribution-grid-snake.svg">
+  <img alt="Animated GitHub contribution journey" src="https://raw.githubusercontent.com/mth996/mth996/gh-pages/github-contribution-grid-snake.svg" width="100%">
 </picture>
 
 </div>
